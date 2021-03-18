@@ -20,5 +20,11 @@
 
 每天截屏记录在Typora上的写作时间
 
+还有在roam research上的时间也算，
+
+用Xmind的时间
+
+用CMap的时间
+
 
 
